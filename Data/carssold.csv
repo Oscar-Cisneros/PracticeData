@@ -1,1 +1,62 @@
 
+Car Brand	KM per Car	Car Status	Price (USD)	Car Model
+Toyota	12,000	Used	18,500	Corolla
+Honda	5,000	New	27,000	Civic
+BMW	45,000	Good	32,500	X5
+Tesla	2,000	New	48,000	Model 3
+Ford	60,000	Used	15,200	Focus
+Hyundai	25,000	Good	19,800	Elantra
+Mercedes-Benz	30,000	Good	41,000	C-Class
+Audi	50,000	Used	28,700	A4
+Nissan	10,000	New	24,300	Altima
+Kia	18,500	Good	21,400	Sportage
+Chevrolet	75,000	Used	13,900	Malibu
+Volkswagen	40,000	Good	22,100	Passat
+Subaru	8,000	New	29,500	Outback
+Lexus	35,000	Good	38,000	RX 350
+Mazda	55,000	Used	16,700	Mazda3
+Toyota	22,000	Good	23,500	Camry
+Honda	15,000	Used	20,200	Accord
+BMW	65,000	Used	27,800	3 Series
+Tesla	9,000	Good	52,000	Model Y
+Ford	35,000	Good	26,400	Escape
+Hyundai	12,500	New	31,000	Tucson
+Mercedes-Benz	48,000	Used	36,500	E-Class
+Audi	27,000	Good	34,200	Q5
+Nissan	70,000	Used	12,800	Sentra
+Kia	6,000	New	33,700	Telluride
+Chevrolet	20,000	Good	24,900	Equinox
+Volkswagen	90,000	Used	11,500	Jetta
+Subaru	14,000	Good	27,300	Forester
+Lexus	5,500	New	54,000	ES 350
+Mazda	33,000	Good	22,600	CX-5
+Toyota	80,000	Used	10,900	RAV4
+Honda	42,000	Good	18,700	CR-V
+BMW	12,000	New	61,500	7 Series
+Tesla	25,000	Used	39,800	Model S
+Ford	5,000	New	44,000	Mustang
+Hyundai	58,000	Used	14,300	Sonata
+Mercedes-Benz	22,000	Good	49,500	GLC
+Audi	75,000	Used	19,600	A6
+Nissan	28,000	Good	17,400	Rogue
+Kia	48,000	Used	15,900	Forte
+Chevrolet	9,000	New	46,500	Tahoe
+Volkswagen	18,000	Good	25,700	Tiguan
+Subaru	65,000	Used	13,600	Impreza
+Lexus	45,000	Good	35,800	NX 300
+Mazda	11,000	New	30,900	CX-9
+Toyota	31,000	Good	26,100	Highlander
+Honda	7,500	New	36,000	Pilot
+BMW	52,000	Used	29,300	X3
+Tesla	14,000	Good	45,600	Model X
+Ford	27,000	Good	28,900	Explorer
+Hyundai	40,000	Used	17,200	Kona
+Mercedes-Benz	10,000	New	72,000	S-Class
+Audi	36,000	Good	31,400	Q7
+Nissan	82,000	Used	9,800	Versa
+Kia	22,000	Good	26,800	Sorento
+Chevrolet	56,000	Used	16,300	Traverse
+Volkswagen	13,000	New	37,900	Atlas
+Subaru	29,000	Good	24,400	Crosstrek
+Lexus	60,000	Used	27,700	GX 460
+Mazda	47,000	Used	18,900	Mazda6
